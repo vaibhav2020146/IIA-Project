@@ -1,0 +1,326 @@
+[
+  {
+    "id": 251,
+    "title": "(Newegg) TV",
+    "description": "Them material wife. Pick property hard season sense direction shoulder radio.\nImagine cup goal once economy crime news claim. Prove among course create just little. Lawyer hand a well.",
+    "rating": "4.9",
+    "price": 165.02,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Teal'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  },
+  {
+    "id": 252,
+    "title": "(Newegg) Rice",
+    "description": "Tell only modern seat rather. Shoulder result Republican west opportunity.\nProject prepare four traditional. Probably general story agency run say. Drug another question claim once.",
+    "rating": "3.1",
+    "price": 361.34,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Thistle'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  },
+  {
+    "id": 253,
+    "title": "(Newegg) Fresh Vegetables",
+    "description": "Current fund security every little firm. Environment professor imagine quite budget single respond.\nPlayer notice until each ok sit season. Measure artist change practice gas.",
+    "rating": "2.3",
+    "price": 584.11,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'PeachPuff'}, {'spec_name': 'Size', 'spec_value': 'S'}]"
+    ]
+  },
+  {
+    "id": 254,
+    "title": "(Newegg) Fresh Fruits",
+    "description": "Determine reach reduce knowledge try.\nAllow cup energy. Knowledge away capital star. Act stage option.",
+    "rating": "4.1",
+    "price": 889.39,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'LightBlue'}, {'spec_name': 'Size', 'spec_value': 'XL'}]"
+    ]
+  },
+  {
+    "id": 255,
+    "title": "(Newegg) Milk",
+    "description": "Difficult wonder yard today company month. Against allow contain.",
+    "rating": "3.9",
+    "price": 289.78,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'White'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 256,
+    "title": "(Newegg) Dress Shirt",
+    "description": "Guess until since short toward. Minute authority pick often foreign art.\nWhole sport campaign water. Growth energy world democratic.\nSerious between should partner many all. Environment network over.",
+    "rating": "4.0",
+    "price": 840.18,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Sienna'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 257,
+    "title": "(Newegg) Canned Vegetables",
+    "description": "Lawyer situation shake both accept travel world. Listen develop natural. Its full character happen region student.",
+    "rating": "1.3",
+    "price": 207.12,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'LightSalmon'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  },
+  {
+    "id": 258,
+    "title": "(Newegg) Socks",
+    "description": "Only deal rather yeah very push spring art. Safe decide matter choose trial seek may before. Difference fall figure never.",
+    "rating": "3.9",
+    "price": 101.49,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'DarkOliveGreen'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 259,
+    "title": "(Newegg) Tablet",
+    "description": "Full field question process suffer somebody rate. Might officer little large.\nPainting strong exist store quite.\nRespond television management movement technology drive. Save tonight American what.",
+    "rating": "4.2",
+    "price": 379.53,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'SkyBlue'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 260,
+    "title": "(Newegg) Snack Bars",
+    "description": "Financial watch cost trip role teach.\nFall improve maybe interest scientist. Happen pressure today cold. My in fight sometimes must.",
+    "rating": "4.7",
+    "price": 628.8,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Violet'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 261,
+    "title": "(Newegg) Laptop",
+    "description": "Event card baby foreign player quality close. Although speak his those. Red admit entire which hit race.",
+    "rating": "3.4",
+    "price": 801.44,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Turquoise'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 262,
+    "title": "(Newegg) Canned Fruits",
+    "description": "Sound between sort stand between. Right American full cell under view and. Company house resource key popular song.",
+    "rating": "4.1",
+    "price": 166.72,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'PowderBlue'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 263,
+    "title": "(Newegg) Headphones",
+    "description": "However of often heavy. Option TV benefit could audience share fund great.\nMiddle level save wear. Space rise box process out. Both kind still answer difference.",
+    "rating": "3.1",
+    "price": 131.1,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'BlueViolet'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 264,
+    "title": "(Newegg) Camera",
+    "description": "Field population environmental between design.\nMovie anyone ok more audience service. Along off either expert eye wear him. Scene fall stop thus full population call choose.",
+    "rating": "4.7",
+    "price": 122.79,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Pink'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 266,
+    "title": "(Newegg) Frozen Pizza",
+    "description": "Age weight expect kind. Future catch computer allow point.\nHimself none religious production. Most commercial could choice right and network. Usually everyone budget east little success.",
+    "rating": "2.6",
+    "price": 160.37,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'DarkOrchid'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 268,
+    "title": "(Newegg) Bluetooth Speaker",
+    "description": "Any never score oil. Tv drug pick plan.\nTravel newspaper poor little picture collection. See range reveal learn community majority nice. Require country beyond gas player.",
+    "rating": "1.2",
+    "price": 892.88,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Chocolate'}, {'spec_name': 'Size', 'spec_value': 'XL'}]"
+    ]
+  },
+  {
+    "id": 269,
+    "title": "(Newegg) Jeans",
+    "description": "Fill most TV him maybe over increase.\nGet life item movie fact. Deal smile state throughout apply project quite cell. Tough magazine personal effect whose over. Listen past ahead run.",
+    "rating": "2.0",
+    "price": 894.59,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Orange'}, {'spec_name': 'Size', 'spec_value': 'XL'}]"
+    ]
+  },
+  {
+    "id": 271,
+    "title": "(Newegg) Coffee",
+    "description": "Especially name interest seek tax. Movement road degree. Give voice my.\nPressure state experience try fear still few. Knowledge rich central agreement personal. Large last card never five her.",
+    "rating": "1.4",
+    "price": 14.29,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'OldLace'}, {'spec_name': 'Size', 'spec_value': 'XL'}]"
+    ]
+  },
+  {
+    "id": 272,
+    "title": "(Newegg) Cereal",
+    "description": "Science whose behind important tax six however.\nSuffer along Mr hospital according my. Coach thought let culture strong.",
+    "rating": "3.7",
+    "price": 612.19,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'DarkSlateBlue'}, {'spec_name': 'Size', 'spec_value': 'XL'}]"
+    ]
+  },
+  {
+    "id": 274,
+    "title": "(Newegg) Smartphone",
+    "description": "Source data color speech. Also individual mention rule only reduce method establish. Mr hot job compare threat address travel could.\nProfessor how court later. Quality successful PM rate page issue.",
+    "rating": "1.4",
+    "price": 520.31,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Maroon'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 278,
+    "title": "(Newegg) Jacket",
+    "description": "Who laugh goal throw art shoulder after. Kid senior room amount citizen listen guy. Short onto old into light several some.\nHis lot age.",
+    "rating": "4.9",
+    "price": 112.54,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'DarkTurquoise'}, {'spec_name': 'Size', 'spec_value': 'S'}]"
+    ]
+  },
+  {
+    "id": 284,
+    "title": "(Newegg) Sweater",
+    "description": "Everybody be water democratic find office. Past fall bag almost blood ask worry.\nProvide growth source it smile listen. Some increase same begin approach join.",
+    "rating": "3.5",
+    "price": 783.84,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'LightGoldenRodYellow'}, {'spec_name': 'Size', 'spec_value': 'XL'}]"
+    ]
+  },
+  {
+    "id": 286,
+    "title": "(Newegg) Eggs",
+    "description": "Little your decide have set. Win you local then health. Water no rule order meet foot.\nRace later simply Democrat as sometimes citizen. Ground with at reflect move truth.",
+    "rating": "3.5",
+    "price": 52.93,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Turquoise'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  },
+  {
+    "id": 287,
+    "title": "(Newegg) Smartwatch",
+    "description": "Career listen finally us product near kitchen act.",
+    "rating": "2.7",
+    "price": 605.29,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'SlateGray'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 291,
+    "title": "(Newegg) Sneakers",
+    "description": "Join tonight last. Voice need political report citizen. Whose indeed trade individual floor glass.",
+    "rating": "3.3",
+    "price": 39.11,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Yellow'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 297,
+    "title": "(Newegg) Canned Soup",
+    "description": "Avoid success development too customer. Office action newspaper issue recently color these. Different model top sell order else.",
+    "rating": "1.2",
+    "price": 454.16,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Turquoise'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 298,
+    "title": "(Newegg) T-Shirt",
+    "description": "Every main field along. Bank a challenge radio. Paper pretty group political parent more.\nSure rather production chair into movement bar. Trouble challenge risk pattern on entire health.",
+    "rating": "4.2",
+    "price": 504.76,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'CornflowerBlue'}, {'spec_name': 'Size', 'spec_value': 'S'}]"
+    ]
+  }
+]

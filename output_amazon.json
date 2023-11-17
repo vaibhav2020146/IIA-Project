@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1,
+    "title": "(Amazon) Milk",
+    "description": "Realize face forget then upon. Learn a specific national administration senior agent.",
+    "rating": "4.1",
+    "price": 527.24,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'YellowGreen'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "(Amazon) Socks",
+    "description": "Former bed former piece let growth travel. Music wall if medical total mission for. Ever our bar pattern color court price art. Budget admit time plant hard.",
+    "rating": "4.3",
+    "price": 517.58,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'PeachPuff'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "(Amazon) Tea",
+    "description": "High three lawyer ask. Mr up measure. Argue together factor huge. Media manage century mouth tend his rather.",
+    "rating": "2.9",
+    "price": 624.82,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'MidnightBlue'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "(Amazon) Dress",
+    "description": "Television property beyond wide. Car car could raise.\nGirl travel girl campaign defense data possible. Believe campaign carry plant. Explain deal build Mr maintain not.",
+    "rating": "4.9",
+    "price": 63.05,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Plum'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "(Amazon) Smartphone",
+    "description": "Increase receive pick way. A every party at. Training attorney Democrat identify receive those send. Tough share discuss radio.",
+    "rating": "1.0",
+    "price": 301.44,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Gainsboro'}, {'spec_name': 'Size', 'spec_value': 'XL'}]"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "(Amazon) Fresh Vegetables",
+    "description": "Rule couple trouble benefit peace indeed west. Development population fill read and consumer. Sister let pattern.",
+    "rating": "3.5",
+    "price": 618.24,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'PapayaWhip'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "(Amazon) T-Shirt",
+    "description": "His image wrong easy change attack support. National agreement suffer.\nPlace Mr hope social capital. Offer claim nation spend street particularly.",
+    "rating": "1.3",
+    "price": 332.38,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'MediumBlue'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "(Amazon) Headphones",
+    "description": "Soon travel chance audience. Best expect else suggest difficult despite surface. Science hand possible local couple reason.",
+    "rating": "2.2",
+    "price": 119.7,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'OliveDrab'}, {'spec_name': 'Size', 'spec_value': 'S'}]"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "(Amazon) Tablet",
+    "description": "Assume serve central agency station. Plan back but establish. Owner language news exactly beautiful popular.",
+    "rating": "3.6",
+    "price": 933.57,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Black'}, {'spec_name': 'Size', 'spec_value': 'S'}]"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "(Amazon) Cereal",
+    "description": "Heavy final sea medical. Movie student card.\nPurpose work mouth role thought. Major fill pretty a work account.",
+    "rating": "2.0",
+    "price": 324.29,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'DeepPink'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "(Amazon) Hoodie",
+    "description": "Conference by meeting. Rule never buy long movement man beautiful. They rest though sign reveal site gun.",
+    "rating": "3.7",
+    "price": 962.79,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'DimGray'}, {'spec_name': 'Size', 'spec_value': 'S'}]"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "(Amazon) Bread",
+    "description": "Language somebody often song himself direction. Reveal others environmental kitchen structure mother unit.\nNor impact analysis month candidate remain black.",
+    "rating": "2.6",
+    "price": 913.05,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'DarkGray'}, {'spec_name': 'Size', 'spec_value': 'S'}]"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "(Amazon) Camera",
+    "description": "Next test sure little up successful. Card provide team him artist.\nCharge stay phone challenge after challenge development. Hair sound old discussion. Say fight word street sea play third.",
+    "rating": "3.1",
+    "price": 379.89,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Crimson'}, {'spec_name': 'Size', 'spec_value': 'XL'}]"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "(Amazon) Jeans",
+    "description": "Movement quite relationship somebody. Detail ok cost project leader similar. Growth special major more into difference.",
+    "rating": "1.5",
+    "price": 977.83,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Plum'}, {'spec_name': 'Size', 'spec_value': 'XL'}]"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "(Amazon) Canned Vegetables",
+    "description": "Enough card design low need. Cell full center two them article. Approach no inside establish life over last.\nFactor must indeed major theory science find. Live scene board coach.",
+    "rating": "1.0",
+    "price": 322.93,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'PaleGoldenRod'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "(Amazon) Fresh Fruits",
+    "description": "Everybody water eat analysis. Employee score property everybody still benefit require important.\nOr go boy compare easy would court buy. Factor hot feeling capital your.",
+    "rating": "1.9",
+    "price": 857.68,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Beige'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "(Amazon) Canned Soup",
+    "description": "Institution democratic and. Development new conference scientist owner send. Road admit hear always research push. Buy ok send letter sell by.",
+    "rating": "1.3",
+    "price": 506.01,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'LightSalmon'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "(Amazon) Eggs",
+    "description": "Man stage physical share option. End that professor modern. Down culture identify consider down term write.",
+    "rating": "4.5",
+    "price": 238.58,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Chocolate'}, {'spec_name': 'Size', 'spec_value': 'XL'}]"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "(Amazon) Laptop",
+    "description": "Environmental Democrat store.\nAcross garden buy anything manager continue unit but. Action final best close. Night increase somebody nation carry now ten.",
+    "rating": "1.5",
+    "price": 458.94,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'LimeGreen'}, {'spec_name': 'Size', 'spec_value': 'XL'}]"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "(Amazon) Jacket",
+    "description": "Own common score do trade material.\nGreen card manage quickly. Center billion gun table weight they day. Benefit stop word explain agreement beyond.\nTen they third energy describe.",
+    "rating": "1.3",
+    "price": 251.5,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Olive'}, {'spec_name': 'Size', 'spec_value': 'XL'}]"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "(Amazon) Sweater",
+    "description": "Treatment near practice wrong official hair. See return use not. Evidence whole beyond thus when minute.\nFocus ok yourself design speech audience impact. Skill we me do as anyone not.",
+    "rating": "1.9",
+    "price": 441.55,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'SeaGreen'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "(Amazon) Pasta",
+    "description": "Purpose husband bed bad if take take hospital. Look economic author.",
+    "rating": "2.4",
+    "price": 407.65,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'RosyBrown'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "(Amazon) Snack Bars",
+    "description": "Try kid especially lot. Summer response best physical activity notice.\nLess grow Mr describe. Way wonder environment task. Take happy do benefit. Especially part staff approach somebody all.",
+    "rating": "2.0",
+    "price": 853.1,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'MidnightBlue'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "(Amazon) Smartwatch",
+    "description": "Spring former member either break rich cost involve. Open with political speak herself market. Ready stuff perhaps yourself travel black.",
+    "rating": "1.8",
+    "price": 606.75,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'MediumSpringGreen'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "(Amazon) Bluetooth Speaker",
+    "description": "Building child student society back. His nice office other hour.\nWhere phone store couple once would wrong. Ever model just piece.\nHead space set throughout adult we.",
+    "rating": "3.9",
+    "price": 742.91,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'CornflowerBlue'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "(Amazon) Frozen Pizza",
+    "description": "Lot either while value save wish sound note. Option season family price let soon course. Nor no season glass stay style.",
+    "rating": "4.1",
+    "price": 512.38,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'DarkOrange'}, {'spec_name': 'Size', 'spec_value': 'S'}]"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "(Amazon) Canned Fruits",
+    "description": "Responsibility big wish. Week decision hair management. Culture those arm other bit rise beautiful. Minute summer to claim white learn fall outside.",
+    "rating": "4.8",
+    "price": 597.74,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'DarkRed'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "(Amazon) Dress Shirt",
+    "description": "Give option several under black item pay least. Information claim anyone. Look reason last several everyone.\nManagement crime officer small red base. Pass general important prevent fine dog could.",
+    "rating": "3.3",
+    "price": 637.2,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Blue'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  }
+]

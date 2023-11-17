@@ -1,0 +1,314 @@
+[
+  {
+    "id": 51,
+    "title": "(eBay) Smartwatch",
+    "description": "Off most avoid.\nTrade Republican heart present.\nLight usually different probably everybody.",
+    "rating": "1.7",
+    "price": 81.15,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'LightBlue'}, {'spec_name': 'Size', 'spec_value': 'S'}]"
+    ]
+  },
+  {
+    "id": 52,
+    "title": "(eBay) Jacket",
+    "description": "Operation become audience. Teacher would ask whether teacher.\nWall though skin field deal rather. Out bed adult fact. Position away cold large challenge.",
+    "rating": "1.8",
+    "price": 262.19,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'MediumTurquoise'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  },
+  {
+    "id": 53,
+    "title": "(eBay) TV",
+    "description": "Himself need both power standard entire. Somebody happy audience major notice carry society.\nExactly director reason already enough professional. Any type change we stuff pick something.",
+    "rating": "3.9",
+    "price": 31.93,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'DarkKhaki'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  },
+  {
+    "id": 54,
+    "title": "(eBay) Camera",
+    "description": "Decision throughout money fill now fish rock. Weight among have house suddenly. Close region tax cost last fear politics.",
+    "rating": "1.2",
+    "price": 156.83,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'DarkBlue'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  },
+  {
+    "id": 55,
+    "title": "(eBay) Tea",
+    "description": "Give ready it nor. So manage life total machine after. Sport garden enter nearly food next.\nThing address give water wall anything. National show rock candidate.",
+    "rating": "1.9",
+    "price": 549.01,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'MistyRose'}, {'spec_name': 'Size', 'spec_value': 'S'}]"
+    ]
+  },
+  {
+    "id": 56,
+    "title": "(eBay) Smartphone",
+    "description": "End morning contain soldier foreign collection. Music wonder group piece raise find.\nStreet crime to past people fast democratic. Thousand such generation concern impact.",
+    "rating": "4.0",
+    "price": 78.47,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'ForestGreen'}, {'spec_name': 'Size', 'spec_value': 'XL'}]"
+    ]
+  },
+  {
+    "id": 57,
+    "title": "(eBay) Bread",
+    "description": "Include sort hair and degree college. Republican range rule score man film. Risk world race mother.",
+    "rating": "2.1",
+    "price": 974.54,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Lavender'}, {'spec_name': 'Size', 'spec_value': 'XL'}]"
+    ]
+  },
+  {
+    "id": 58,
+    "title": "(eBay) Jeans",
+    "description": "Someone activity with special if. Talk and government. Respond minute book brother enter project try.\nAnalysis include more social sense. Concern role manage prepare spend happy lead.",
+    "rating": "2.5",
+    "price": 33.38,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'MediumSpringGreen'}, {'spec_name': 'Size', 'spec_value': 'S'}]"
+    ]
+  },
+  {
+    "id": 59,
+    "title": "(eBay) Headphones",
+    "description": "Still want gas move full response. Glass operation name.\nEnvironmental compare national PM.\nDetail wait one director provide.",
+    "rating": "3.6",
+    "price": 18.71,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'MistyRose'}, {'spec_name': 'Size', 'spec_value': 'XL'}]"
+    ]
+  },
+  {
+    "id": 60,
+    "title": "(eBay) Dress",
+    "description": "Grow machine campaign seem thing free class. Any southern perform laugh issue.\nToo get magazine decision field event. Think light father subject carry high. History just seek in will site close fill.",
+    "rating": "3.3",
+    "price": 76.29,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'BlueViolet'}, {'spec_name': 'Size', 'spec_value': 'XL'}]"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "(eBay) Dress Shirt",
+    "description": "Clear hope job management us. Yet agency send participant air figure. Thousand no customer others.",
+    "rating": "3.9",
+    "price": 885.42,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'SlateBlue'}, {'spec_name': 'Size', 'spec_value': 'S'}]"
+    ]
+  },
+  {
+    "id": 63,
+    "title": "(eBay) T-Shirt",
+    "description": "Music new in most contain size trade. Often table everybody quality.\nBag throughout information paper bring represent. Election difference war establish.",
+    "rating": "1.0",
+    "price": 912.86,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'SlateBlue'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  },
+  {
+    "id": 64,
+    "title": "(eBay) Sneakers",
+    "description": "Investment myself TV fill former project. Almost remember real science.\nFriend place training better response way statement. Water left about management sea.",
+    "rating": "1.4",
+    "price": 848.35,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'BlueViolet'}, {'spec_name': 'Size', 'spec_value': 'S'}]"
+    ]
+  },
+  {
+    "id": 65,
+    "title": "(eBay) Coffee",
+    "description": "Energy take throw sometimes eat pay official hair. Late none every Republican. Remain building sure. That space television subject paper source at.",
+    "rating": "3.3",
+    "price": 271.92,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'SlateGray'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 66,
+    "title": "(eBay) Skirt",
+    "description": "Recognize happy about performance. Last note garden stand door president. Manage head prevent seven wall six.\nActually girl coach environment hear rate act. Reflect coach we meet follow.",
+    "rating": "3.0",
+    "price": 888.06,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Linen'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  },
+  {
+    "id": 71,
+    "title": "(eBay) Laptop",
+    "description": "Avoid station film. Job role actually and according.\nFight direction quite task put body audience. Explain enter west option.\nCentral walk national do among. Account measure until.",
+    "rating": "2.1",
+    "price": 286.92,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'DimGray'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 73,
+    "title": "(eBay) Socks",
+    "description": "Realize forward two writer of. Dog physical wear little finish. Act report behavior.",
+    "rating": "3.0",
+    "price": 783.83,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Azure'}, {'spec_name': 'Size', 'spec_value': 'S'}]"
+    ]
+  },
+  {
+    "id": 74,
+    "title": "(eBay) Rice",
+    "description": "Group reflect buy personal technology case. Ok life question cost it board. Mention parent own this.",
+    "rating": "3.9",
+    "price": 638.84,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'DarkOrchid'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  },
+  {
+    "id": 77,
+    "title": "(eBay) Cereal",
+    "description": "Grow writer law she. Quickly near campaign science employee as. Positive leave paper rise listen.\nFollow under participant but.\nAccept develop north face. Call physical others country field.",
+    "rating": "2.6",
+    "price": 335.72,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Fuchsia'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 80,
+    "title": "(eBay) Fresh Fruits",
+    "description": "Great morning itself bank baby. Probably detail shake want also order.\nPresident meet weight require whole. High system program you record. Drop statement understand similar effect.",
+    "rating": "4.0",
+    "price": 885.53,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'DarkGoldenRod'}, {'spec_name': 'Size', 'spec_value': 'XL'}]"
+    ]
+  },
+  {
+    "id": 81,
+    "title": "(eBay) Milk",
+    "description": "Trial act spend bar successful a. Area need begin many.\nOver stuff well member world against store radio. Benefit bring third.\nShake cell price.",
+    "rating": "4.4",
+    "price": 137.53,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'DeepPink'}, {'spec_name': 'Size', 'spec_value': 'XL'}]"
+    ]
+  },
+  {
+    "id": 90,
+    "title": "(eBay) Sweater",
+    "description": "Civil each speak product general draw. Decide move want. Without he along back finish present behind else.",
+    "rating": "1.1",
+    "price": 157.61,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'BlanchedAlmond'}, {'spec_name': 'Size', 'spec_value': 'S'}]"
+    ]
+  },
+  {
+    "id": 94,
+    "title": "(eBay) Hoodie",
+    "description": "War answer mouth rich produce daughter. Top start audience buy hear factor. Indeed his PM raise.",
+    "rating": "1.2",
+    "price": 72.65,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Magenta'}, {'spec_name': 'Size', 'spec_value': 'L'}]"
+    ]
+  },
+  {
+    "id": 95,
+    "title": "(eBay) Pasta",
+    "description": "Office brother night somebody issue away. Memory when most grow price. Home guess family head.",
+    "rating": "4.4",
+    "price": 482.2,
+    "currency": "INR",
+    "imageUrl": "https://placekitten.com/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'SpringGreen'}, {'spec_name': 'Size', 'spec_value': 'XL'}]"
+    ]
+  },
+  {
+    "id": 96,
+    "title": "(eBay) Canned Fruits",
+    "description": "Car quite pay use. Serious at sea wall sign carry attack attack. Economy ago too might among from. Little happy physical now bar school camera these.",
+    "rating": "1.6",
+    "price": 889.45,
+    "currency": "INR",
+    "imageUrl": "https://picsum.photos/300/300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'Maroon'}, {'spec_name': 'Size', 'spec_value': 'XL'}]"
+    ]
+  },
+  {
+    "id": 100,
+    "title": "(eBay) Canned Soup",
+    "description": "Sense teach discover power yard citizen model. Voice bed actually affect among former because. Late law oil hold.\nSouth interest society cost thought. Nearly bill box effort good leader financial.",
+    "rating": "1.5",
+    "price": 914.54,
+    "currency": "INR",
+    "imageUrl": "https://dummyimage.com/300x300",
+    "specs": [
+      "[{'spec_name': 'Color', 'spec_value': 'FloralWhite'}, {'spec_name': 'Size', 'spec_value': 'M'}]"
+    ]
+  }
+]
